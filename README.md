@@ -2,6 +2,9 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+![image](https://github.com/lecodeur228/deadpool_website_with_nuxtjs/assets/92242447/2cd5dd2f-6579-461a-b9ee-e176d5f32d94)
+
+
 ## Setup
 
 Make sure to install the dependencies:
